@@ -38,7 +38,7 @@
           .col-lg-10
             .titulo-sexto.color-acento-contenido
               h5 Tabla 1.
-              span Clasificación productos no maderables del bosque y sus cadenas productivas
+              span Clasificación de productos no maderables del bosque y sus cadenas productivas
             
             .tabla-a.color-secundario.tbl
               table
@@ -49,7 +49,7 @@
                     th.bg-color-11 Cadena productiva
                 tbody.bg-color-white
                   tr
-                    td Euterpe precatoria, Plukenetia volubilis
+                    td <i>Euterpe</i> precatoria, <i> Plukenetia volubilis </i>
                     td Asaí
                     td Alimentos
                   tr.bg-color-12
@@ -157,19 +157,19 @@
         ul.lista-ul--color.mb-0
           li.mb-0.d-flex
             i.fas.fa-circle-check.bg-color-13
-            p.mb-0 No requieren tala
+            p.mb-0 No requieren tala.
           li.mb-0.d-flex
             i.fas.fa-circle-check.bg-color-13
-            p.mb-0 Materia prima para múltiples productos
+            p.mb-0 Materia prima para múltiples productos.
           li.mb-0.d-flex
             i.fas.fa-circle-check.bg-color-13
-            p.mb-0 Apoyo a economías locales
+            p.mb-0 Apoyo a economías locales.
           li.mb-0.d-flex
             i.fas.fa-circle-check.bg-color-13
             p.mb-0 Incluyen semillas, frutos, resinas, hojas, etc.
           li.mb-0.d-flex
             i.fas.fa-circle-check.bg-color-13
-            p.mb-0 Su aprovechamiento comercial requiere permisos ambientales
+            p.mb-0 Su aprovechamiento comercial requiere permisos ambientales.
     
       .col-md.tarjeta.bg-color-7.p-5
         .row.justify-content-center.mb-4
@@ -180,16 +180,16 @@
         ul.lista-ul--color.mb-0
           li.mb-0.d-flex
             i.fas.fa-circle-check.bg-color-13
-            p.mb-0 Requieren salvoconducto para su movilización
+            p.mb-0 Requieren salvoconducto para su movilización.
           li.mb-0.d-flex
             i.fas.fa-circle-check.bg-color-13
-            p.mb-0 Tejido leñoso
+            p.mb-0 Tejido leñoso.
           li.mb-0.d-flex
             i.fas.fa-circle-check.bg-color-13
             p.mb-0 Usos industriales variados: muebles, papel, construcción, etc.
           li.mb-0.d-flex
             i.fas.fa-circle-check.bg-color-13
-            p.mb-0 Riesgo de deforestación si no se controla su extracción
+            p.mb-0 Riesgo de deforestación si no se controla su extracción.
 
     .tarjeta.color-primario.p-3.mb-5
       .row.justify-content-around.align-items-center
@@ -259,7 +259,7 @@
             img.titulo-con-imagen__imagen(src="@/assets/componentes/1.svg")
             h3.titulo-con-imagen__texto Estructura de especies
         
-        p.mb-5 La estructura de especies, también llamada diversidad de especies se refiere a la riqueza biológica en una zona determinada. Esta es una de las técnicas más utilizadas para el análisis estructural de los ecosistemas forestales, debido a sus ventajas (Aguirre, 2016):
+        p.mb-5 La estructura de especies, también llamada diversidad de especies, se refiere a la riqueza biológica en una zona determinada. Esta es una de las técnicas más utilizadas para el análisis estructural de los ecosistemas forestales, debido a sus ventajas (Aguirre, 2016):
 
         .row.justify-content-center
           .col-lg-10

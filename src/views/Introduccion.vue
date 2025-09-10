@@ -21,14 +21,14 @@
         :style="{'background-image': `url(${require('@/assets/curso/intro/2.png')})`}"
       )(data-aos="zoom-in")
       .bloque-texto-g__texto.p-4
-        p.mb-0 A lo largo del componente, se abordan aspectos clave como la estructura y funciones de los ecosistemas forestales, los ciclos biogeoquímicos, las interacciones biológicas, y el ordenamiento forestal. También se profundiza en los usos maderables y no maderables, las áreas de conservación local y la normativa que regula el manejo de los recursos, resaltando la relación entre la conservación de la biodiversidad y el bienestar humano.
+        p.mb-0 A lo largo del componente, se abordan aspectos clave como la estructura y funciones de los ecosistemas forestales, los ciclos biogeoquímicos, las interacciones biológicas y el ordenamiento forestal. También se profundiza en los usos maderables y no maderables, las áreas de conservación local y la normativa que regula el manejo de los recursos, resaltando la relación entre la conservación de la biodiversidad y el bienestar humano.
     
     
     .row.align-items-center
       .col-lg-auto.mb-3.mb-lg-0
         img(src="@/assets/curso/intro/3.svg", style="max-width: 90px").mx-auto
       .col-lg
-        p.mb-0 Este material está diseñado para que el aprendiz comprenda el papel estratégico que desempeñan los bosques en la regulación climática, la provisión de bienes y servicios, y la protección de hábitats, desarrollando una visión crítica y propositiva que le permita plantear acciones para su conservación y manejo sostenible, en coherencia con las realidades territoriales y los retos ambientales actuales.
+        p.mb-0 Este material está diseñado para que el aprendiz comprenda el papel estratégico que desempeñan los bosques en la regulación climática, la provisión de bienes y servicios y la protección de hábitats, desarrollando una visión crítica y propositiva que le permita plantear acciones para su conservación y manejo sostenible, en coherencia con las realidades territoriales y los retos ambientales actuales.
 
 </template>
 

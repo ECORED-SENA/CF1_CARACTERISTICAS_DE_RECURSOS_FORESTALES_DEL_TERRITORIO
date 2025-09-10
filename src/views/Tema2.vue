@@ -7,7 +7,7 @@
         span 2
       h1 Ordenamiento forestal en territorios
     
-    p.mb-5 El ordenamiento forestal es un instrumento fundamental para garantizar el manejo sostenible y el aprovechamiento adecuado de los recursos forestales, asegurando a su vez la conservación de los bosques. Según los Lineamientos y Guía para la Ordenación Forestal en Colombia (Ministerio de Ambiente y Desarrollo Sostenible, 2020, p. 32), este proceso debe regirse por los siguientes principios:
+    p.mb-5 El ordenamiento forestal es un instrumento fundamental para garantizar el manejo sostenible y el aprovechamiento adecuado de los recursos forestales, asegurando a su vez la conservación de los bosques. Según los lineamientos y guía para la ordenación forestal en Colombia (Ministerio de Ambiente y Desarrollo Sostenible, 2020, p. 32), este proceso debe regirse por los siguientes principios:
 
     .bg-full-width.bg-fondo-slider
       .p-4.p-md-5
@@ -69,7 +69,7 @@
                     ul.lista-ul--color.mb-0
                       li.mb-0.d-flex
                         i.fas.fa-circle-check.bg-color-13
-                        p.mb-0 Las áreas forestales productoras deben contar con un <b>Plan de ordenación forestal</b> elaborado por la autoridad ambiental competente.
+                        p.mb-0 Las áreas forestales productoras deben contar con un <b>plan de ordenación forestal</b> elaborado por la autoridad ambiental competente.
                       li.mb-0.d-flex
                         i.fas.fa-circle-check.bg-color-13
                         p.mb-0 Las unidades de ordenación forestal deben conservar la homogeneidad en cuanto a condiciones florísticas, estructurales, silviculturales y de oferta ambiental, integrando además las condiciones socioculturales de las comunidades locales que habitan estos ecosistemas.

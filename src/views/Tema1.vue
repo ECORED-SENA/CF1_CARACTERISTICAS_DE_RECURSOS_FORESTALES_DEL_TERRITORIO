@@ -15,7 +15,7 @@
               img(src="@/assets/curso/tema1/1.png", data-aos="zoom-in")
           .col-lg-8.order-lg-1
             .bg-color-1.p-4(data-aos="fade-left")
-              p.mb-0 Un ecosistema forestal está conformado por un conjunto de organismos vivos: como plantas, animales, hongos y microorganismos, que interactúan entre sí y con su entorno, formando lo que se conoce como biocenosis. La energía que impulsa el funcionamiento de estos ecosistemas proviene principalmente del Sol, en forma de energía térmica y luminosa. Esta energía es esencial para los ciclos de materia y energía, especialmente a través del proceso de fotosíntesis (Kebbe, 2022).
+              p.mb-0 Un ecosistema forestal está conformado por un conjunto de organismos vivos, como plantas, animales, hongos y microorganismos, que interactúan entre sí y con su entorno, formando lo que se conoce como biocenosis. La energía que impulsa el funcionamiento de estos ecosistemas proviene principalmente del Sol, en forma de energía térmica y luminosa. Esta energía es esencial para los ciclos de materia y energía, especialmente a través del proceso de fotosíntesis (Kebbe, 2022).
         
         separador
         

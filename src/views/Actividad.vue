@@ -328,7 +328,7 @@ export default {
             {
               id: 'd',
               texto: 'Horizontal.',
-              esCorrecta: false,
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',

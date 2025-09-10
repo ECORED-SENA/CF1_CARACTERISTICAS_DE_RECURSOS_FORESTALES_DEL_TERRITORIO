@@ -52,7 +52,7 @@
                 img(src="@/assets/curso/tema3/6.png", alt="Imagen decorativa")
             .col-lg-6.order-1.mb-3.mb-lg-0
               h5 Alimentos
-              p Recursos no maderables como achiote, asái, cúrcuma, quinua, borojó se utilizan como materia prima en la agroindustria alimentaria.
+              p Recursos no maderables como achiote, asái, cúrcuma, quinua y borojó se utilizan como materia prima en la agroindustria alimentaria.
           .row.align-items-center.p-4.p-md-5.justify-content-center
             .col-lg-6.order-2
               figure
