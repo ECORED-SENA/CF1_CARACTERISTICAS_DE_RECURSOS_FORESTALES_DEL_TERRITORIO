@@ -65,11 +65,11 @@
                     td Bambú
                     td Artesanías - construcción
                   tr
-                    td Furcraea spp.
+                    td <i>Furcraea spp</i> 
                     td Fique
                     td Agrícola - artesanal
                   tr.bg-color-12
-                    td Theobroma cacao
+                    td <i>Theobroma</i> cacao
                     td Cacao
                     td Cosméticos - alimentos
     
