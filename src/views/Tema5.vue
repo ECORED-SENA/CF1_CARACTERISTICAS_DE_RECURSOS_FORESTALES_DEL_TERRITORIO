@@ -49,19 +49,19 @@
                     th.bg-color-11 Cadena productiva
                 tbody.bg-color-white
                   tr
-                    td <i>Euterpe</i> precatoria, <i> Plukenetia volubilis </i>
+                    td <i>Euterpe precatoria, Plukenetia volubilis</i>
                     td Asaí
                     td Alimentos
                   tr.bg-color-12
-                    td Bixa orellana
+                    td #[i Bixa orellana]
                     td Achiote
                     td Alimentos
                   tr
-                    td Curcuma longa
+                    td #[i Curcuma longa]
                     td Cúrcuma
                     td Agroindustria
                   tr.bg-color-12
-                    td Bambusa guadua
+                    td #[i Bambusa guadua]
                     td Bambú
                     td Artesanías - construcción
                   tr
@@ -69,7 +69,7 @@
                     td Fique
                     td Agrícola - artesanal
                   tr.bg-color-12
-                    td <i>Theobroma</i> cacao
+                    td <i>Theobroma cacao</i>
                     td Cacao
                     td Cosméticos - alimentos
     
@@ -110,20 +110,20 @@
                 th.bg-color-11 Usos potenciales
             tbody.bg-color-white
               tr
-                td Cedro
-                td Cedrela odorata L.
+                td #[i Cedro]
+                td #[i Cedrela odorata L.]
                 td Muebles, chapas, carpintería
               tr.bg-color-12
-                td Roble
-                td Tabebuia rosea
+                td #[i Roble]
+                td #[i Tabebuia rosea]
                 td Molduras, decoración
               tr
-                td Caimo
-                td Pouteria caimito
+                td #[i Caimo]
+                td #[i Pouteria caimito]
                 td Carpintería
               tr.bg-color-12
-                td Abarco
-                td Cariniana pyriformis
+                td #[i Abarco]
+                td #[i Cariniana pyriformis]
                 td Chapas, pisos, parquet
 
     .tarjeta.color-primario.p-3.mb-5

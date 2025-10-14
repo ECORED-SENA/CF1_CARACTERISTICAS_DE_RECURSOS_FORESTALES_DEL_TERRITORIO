@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Características de recursos forestales del territorio',
     Description:
-      'Este componente formativo describe las características de los recursos forestales del territorio considerando aspectos normativos, ecosistemas forestales, ordenamiento, usos tradicionales y demás elementos que permitan definir estrategias de aprovechamiento sostenible.',
+      'Este componente formativo describe las características de los recursos forestales del territorio, considerando aspectos normativos, ecosistemas forestales, ordenamiento, usos tradicionales y demás elementos que permitan definir estrategias de aprovechamiento sostenible.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -146,7 +146,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/22220147_CF01_DU.pdf',
+        download: 'downloads/22220147_CF01_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -383,9 +383,10 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'xyz xyz',
+          nombre: 'Carlos Julián Ramírez Benítez',
           cargo: 'Diseñador de contenidos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Cielo Damaris Angulo Rodríguez',

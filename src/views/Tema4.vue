@@ -15,7 +15,7 @@
         .bg-color-1.p-4(data-aos="fade-left")
           p.mb-0 Las áreas de conservación local son territorios delimitados cuyo objetivo principal es la protección de ecosistemas estratégicos, integrando criterios de sostenibilidad ambiental, relevancia ecológica y participación comunitaria. Estas áreas permiten la conservación de la biodiversidad sin desligarse del desarrollo social y económico de las comunidades que habitan y gestionan dichos territorios. Su reconocimiento y fortalecimiento representan una estrategia clave para conservar la biodiversidad desde lo local, promoviendo modelos de uso sostenible del territorio (Andrade et al., 2011).
     
-    .bg-full-width.bg-color-2.mb-3
+    .bg-full-width.bg-color-2
       .p-4.p-md-5
         separador
         
@@ -24,12 +24,12 @@
         
         p.mb-5 En el marco de proyectos productivos que impliquen el aprovechamiento de recursos forestales, es fundamental identificar si se trata de un territorio incluido en alguna categoría de área de conservación local. Estas áreas pueden tener restricciones específicas o requerir permisos ambientales, con el fin de garantizar la sostenibilidad y evitar impactos negativos. A continuación, se presentan los principales tipos:
 
-        .row.mb-5
+        .row.align-items-center
           .col-lg-3.mb-3.mb-lg-0.order-lg-2
             figure
               img(src="@/assets/curso/tema4/2.png", data-aos="zoom-in")
           .col-lg-9.order-lg-1
-            AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg-color-10")
+            AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-10")
               div(titulo="Reservas naturales de la sociedad civil")
                 p.ms-5 Áreas designadas voluntariamente por particulares con el objetivo exclusivo de conservar la biodiversidad.
               div(titulo="Parques naturales municipales o regionales")
@@ -44,7 +44,7 @@
     
     p.mb-5 Las áreas de conservación local presentan atributos que las distinguen de otras formas de protección ambiental a mayor escala. Estas características permiten una mayor adaptabilidad a contextos locales y fomentan el compromiso activo de las comunidades en su gestión.
 
-    .bg-full-width.bg-fondo-1.mb-3
+    .bg-full-width.bg-fondo-1
       .p-4.p-md-5
         .bg-full-width.bg-fondo-5
           .px-4.px-md-5.pb-md-3
