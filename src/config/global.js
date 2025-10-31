@@ -317,9 +317,9 @@ export default {
     },
     {
       referencia:
-        'Monroy, L., y Lizarazo, L. (2010). Identificación de hongos fitopatógenos asociados al roble (Quercus humboldtii Bonpl.), en los municipios de Encino (Santander), Arcabuco y Tipacoque (Boyacá). Colombia Forestal, 13(2), 347-356. ',
+        'Monroy, L., & Lizarazo, L. (2010). Identificación de hongos fitopatógenos asociados al roble (Quercus humboldtii Bonpl.), en los municipios de Encino (Santander), Arcabuco y Tipacoque (Boyacá). Colombia Forestal, 13(2), 347-356.',
       link:
-        'https://revistas.udistrital.edu.co/index.php/colfor/article/view/3270/0',
+        'https://revistas.udistrital.edu.co/index.php/colfor/article/view/3453',
     },
     {
       referencia:
